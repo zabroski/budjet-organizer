@@ -2,10 +2,10 @@
 
 ### Index.html
 
-## Canvas html 
+### Canvas html 
 
-## Style with css
+### Style with css
 
-## Vanilla javascript
+### Vanilla javascript
 
-## User can add their total income and subtrat..............
+### User can add their total income and subtrat..............
