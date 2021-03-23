@@ -8,4 +8,4 @@
 
 ### Vanilla javascript
 
-### User can add their total income and subtrat..............
+
